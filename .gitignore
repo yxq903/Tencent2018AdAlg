@@ -1,5 +1,7 @@
 /Oridata/
- /dataAfterProcess/
+/dataAfterProcess/
+/dataAfterProcess16/
+/dataAfterProcess8/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
